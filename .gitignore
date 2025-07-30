@@ -2,4 +2,3 @@ venv
 backend/venv
 frontend/venv
 data
-.env
